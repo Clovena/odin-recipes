@@ -1,0 +1,24 @@
+* {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 24px;
+}
+
+h1 {
+  color: white;
+  background-color: darkred;
+  font-family: "Copperplate";
+  font-size: 48px;
+  text-align: center;
+}
+
+a:visited {
+  color: grey;
+}
+
+.blueberry {
+  color: blue;
+}
+
+.bread {
+  font-style: italic;
+}
